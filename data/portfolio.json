@@ -131,7 +131,7 @@
         "SQL",
         "DAX"
       ],
-      "frameworks": [
+      "Tools": [
         "PowerBI",
         "Tableau",
         "Excel"
