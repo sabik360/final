@@ -7,7 +7,7 @@
     "showCursor": true,
     "showBlog": false,
     "darkMode": true,
-    "showResume": true,
+    "showResume": false,
     "socials": [
       {
         "id": "1",
@@ -21,8 +21,8 @@
       },
       {
         "id": "3",
-        "title": "Twitter",
-        "link": "https://twitter.com/"
+        "title": "Resume",
+        "link": "https://sabik360.notion.site/Muhammed-Sabik-08c5b30eefd94d9ea4fad5bc1a390b98/"
       },
       {
         "id": "4",
